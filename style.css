@@ -1,5 +1,28 @@
+body{
+    background-color: rgba(128, 248, 232, 0.151);
+}
+
 h1{
     font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(56, 56, 56);
+}
+
+h2{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(107, 99, 99);
+}
+
+p,
+ul,
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.index{
+    list-style-type: none;
+    text-align: center;
 }
